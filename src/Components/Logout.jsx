@@ -22,7 +22,7 @@ export const Logout = () => {
     
     return(
         <div>
-          {logout()} //why it renders twice ?
+          {logout()} 
         </div>
     )
 }
